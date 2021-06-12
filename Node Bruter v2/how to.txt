@@ -1,0 +1,4 @@
+1). sh ranger.sh
+2). sh zmap.sh.sh
+3). zmap -p2222 -w ranges.lst -o nodes.txt
+4). php node.php nodes.txt > nodesbruted.txt
